@@ -56,7 +56,7 @@ The images used on this project came from unsplash.
 
 ## Deployment
 
-This project was deployed on Netlify and can be accessed at :
+This project was deployed on Netlify and can be accessed at : https://planet-landing.netlify.app/
 
 ## Reflection
 
