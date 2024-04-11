@@ -1,4 +1,5 @@
 "use client";
+import Link from "next/link";
 
 export default function Hero() {
   return (
@@ -10,7 +11,7 @@ export default function Hero() {
             Let's explore our solar system! Discover planet facts!
           </p>
           <button className="text-white text-xl bg-blue-500 hover:bg-cyan-600 p-2 rounded font-semibold">
-            Explore!
+            <Link href="#featured">Explore!</Link>
           </button>
         </div>
       </div>
